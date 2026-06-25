@@ -2,7 +2,7 @@
   "name": "Life RPG",
   "short_name": "Life RPG",
   "description": "Геймификация жизни, квесты, навыки, сад роста и награды.",
-  "start_url": "./life-rpg.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#edf4f1",
