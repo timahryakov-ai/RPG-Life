@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#17231f"/>
+  <path d="M96 357c43-21 76-55 94-101 15-38 41-68 79-87 38-18 80-19 126-2-6 48-25 86-57 115-33 29-72 41-119 37-39-3-73 10-102 38H96Z" fill="#58c99c"/>
+  <path d="M255 366c-8-69 13-126 64-171" fill="none" stroke="#edf4f1" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="171" cy="157" r="48" fill="#f0bd4d"/>
+  <text x="256" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="76" font-weight="900" fill="#edf4f1">XP</text>
+</svg>

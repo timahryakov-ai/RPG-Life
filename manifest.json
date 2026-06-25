@@ -1,0 +1,19 @@
+{
+  "name": "Life RPG",
+  "short_name": "Life RPG",
+  "description": "Геймификация жизни, квесты, навыки, сад роста и награды.",
+  "start_url": "./life-rpg.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf4f1",
+  "theme_color": "#17856b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
